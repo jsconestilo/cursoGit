@@ -1,2 +1,4 @@
 Hola esto es desde la
 rama A
+
+Este es el contenido de la ramaB
