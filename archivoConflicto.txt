@@ -1,2 +1,8 @@
+
 Contenido principal
 Esta información es agregada desde la rama Master
+Hola esto es desde la
+rama A
+
+Este es el contenido de la ramaB
+
