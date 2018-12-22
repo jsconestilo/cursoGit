@@ -1,0 +1,4 @@
+# Ignores
+
+.env
+config.php
